@@ -16,7 +16,7 @@
    python main.py
    ```
 4. **Open the Frontend**: Run index.html by visiting [http://127.0.0.1:5000](http://127.0.0.1:5000)
-   - If there is an error at this step, check the port that the code is running on that is displayed through your termial
+   - If there is an error at this step, look at the port number in your terminal, and click that to access your project
 
 ## Completed Dashboard
 
