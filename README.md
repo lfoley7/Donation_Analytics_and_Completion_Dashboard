@@ -30,11 +30,15 @@ This project was built using:
    git clone https://github.com/lfoley7/Donation_Analytics_and_Completion_Dashboard.git
    cd Donation_Analytics_and_Completion_Dashboard
    ```
-2. **Start the Flask Server**: Run the following command to start the Flask application
+2. **Install the Required Packages**: Install all the necessary dependencies using pip:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. **Start the Flask Server**: Run the following command to start the Flask application
    ```bash
    python main.py
    ```
-3. **Open the Frontend**: Run index.html by double-clicking the file in your file system, or by visiting [https://localhost:5000](https://localhost:5000)
+4. **Open the Frontend**: Run index.html by double-clicking the file in your file system, or by visiting [https://localhost:5000](https://localhost:5000)
 
 ## Project Requirements Completed
 
