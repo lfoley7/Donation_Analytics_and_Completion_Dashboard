@@ -25,8 +25,6 @@ This project was built using:
 
 ## Project Requirements Completed
 
-This project fulfills the following requirements:
-
 - **Subqueries**: Subqueries were used in SQL queries to extract specific data and to create more complex queries and refined results
 - **Built-in Functions**: Several built-in SQL functions -- such as `SUM()`, `COUNT()`, `ROUND()`, and `TRIM()` -- were used to process and clean data
 - **Display Metrics**: The dashboard displays metrics related to the completion percentage of donations, including average completion percentage, time between key events, and most popular cancellation reasons
