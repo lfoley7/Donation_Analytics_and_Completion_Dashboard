@@ -17,6 +17,9 @@ This project was built using:
 - **Bootstrap** 5.3.0
 - **Jinja2**
 - **Flask**
+- **HTML**
+- **CSS**
+- **jQuery**
 - **FontAwesome** 6.0.0
 - **Google Fonts**
 
