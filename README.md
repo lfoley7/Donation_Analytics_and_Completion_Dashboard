@@ -1,10 +1,25 @@
 # Donation Analytics and Completion Dashboard
 
+## Run the Code!
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/lfoley7/Donation_Analytics_and_Completion_Dashboard.git
+   cd Donation_Analytics_and_Completion_Dashboard
+   ```
+2. **Install the Required Packages**: Install all the necessary dependencies using pip:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. **Start the Flask Server**: Run the following command to start the Flask application
+   ```bash
+   python main.py
+   ```
+4. **Open the Frontend**: Run index.html by double-clicking the file in your file system, or by visiting [https://localhost:5000](https://localhost:5000)
+
+## Completed Dashboard
+
 ![Analytics Dashboard ](static/completion_percentage_dashboard.png)
-
-## GitHub Pages Website
-
-The project is available on GitHub Pages at the following link: [Donation Analytics and Completion Dashboard](https://lfoley7.github.io/Donation_Analytics_and_Completion_Dashboard/)
 
 ## Tech Stack
 
@@ -24,23 +39,6 @@ This project was built using:
 - **jQuery**
 - **FontAwesome** 6.0.0
 - **Google Fonts**
-
-## Run the Code!
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/lfoley7/Donation_Analytics_and_Completion_Dashboard.git
-   cd Donation_Analytics_and_Completion_Dashboard
-   ```
-2. **Install the Required Packages**: Install all the necessary dependencies using pip:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. **Start the Flask Server**: Run the following command to start the Flask application
-   ```bash
-   python main.py
-   ```
-4. **Open the Frontend**: Run index.html by double-clicking the file in your file system, or by visiting [https://localhost:5000](https://localhost:5000)
 
 ## Project Requirements Completed
 
