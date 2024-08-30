@@ -12,6 +12,8 @@ This project was built using:
 - **Flask**
 - **SQLite**
 - **Plotly**
+- **Numpy**
+- **Pandas**
 - **Bootstrap** 5.3.0
 - **Jinja2**
 - **Flask**
