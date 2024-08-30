@@ -15,7 +15,7 @@
    ```bash
    python main.py
    ```
-4. **Open the Frontend**: Run index.html by double-clicking the file in your file system, or by visiting [http://127.0.0.1:5000](http://127.0.0.1:5000))
+4. **Open the Frontend**: Run index.html by double-clicking the file in your file system, or by visiting [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
 ## Completed Dashboard
 
