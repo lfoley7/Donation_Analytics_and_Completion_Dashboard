@@ -1,5 +1,7 @@
 # Donation Analytics and Completion Dashboard
 
+![Analytics Dashboard ](static/completion_percentage_dashboard.png)
+
 ## GitHub Pages Website
 
 The project is available on GitHub Pages at the following link: [Donation Analytics and Completion Dashboard](https://lfoley7.github.io/Donation_Analytics_and_Completion_Dashboard/)
