@@ -17,7 +17,7 @@
    ```
 4. **Open the Frontend**: Run index.html by double-clicking the file in your file system, or by visiting [https://localhost:5000](https://localhost:5000)
 
-## Dashboard Image
+## Completed Dashboard
 
 ![Analytics Dashboard ](static/completion_percentage_dashboard.png)
 
