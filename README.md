@@ -23,6 +23,14 @@ This project was built using:
 - **FontAwesome** 6.0.0
 - **Google Fonts**
 
+## Run the Code!
+
+- 1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/lfoley7/Donation_Analytics_and_Completion_Dashboard.git
+   cd Donation_Analytics_and_Completion_Dashboard
+   ```
+
 ## Project Requirements Completed
 
 - **Subqueries**: Subqueries were used in SQL queries to extract specific data and to create more complex queries and refined results
