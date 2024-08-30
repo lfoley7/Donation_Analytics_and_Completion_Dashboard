@@ -8,14 +8,14 @@ The project is available on GitHub Pages at the following link: [Donation Analyt
 
 This project was built using:
 
-- **Python**: Version 3.12.2
+- **Python** 3.12.2
 - **Flask**
 - **SQLite**
 - **Plotly**
-- **Bootstrap**: Version 5.3.0
+- **Bootstrap** 5.3.0
 - **Jinja2**
 - **Flask**
-- **FontAwesome**: Version 6.0.0
+- **FontAwesome** 6.0.0
 - **Google Fonts**
 
 ## Project Requirements Completed
